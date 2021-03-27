@@ -1,4 +1,4 @@
-# wendyfoodproject1
+# wendy-food project1
 Food app project that specialize in local eateries. User can 
 create account, earn points, find local eateries using Google map near them. Add local eateries and food reviews by users
 
