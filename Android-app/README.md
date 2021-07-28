@@ -1,1 +1,1 @@
-### Creating Foodio mobile app using Android Studio 
+### Creating Foodios mobile app using Android Studio 
