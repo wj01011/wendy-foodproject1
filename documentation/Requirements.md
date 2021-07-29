@@ -33,7 +33,7 @@ Every time she shares on social media, she earns points.
 
 ### Non-functional Requirement
 Scalability
-- This is a mobile and web application, it needs to handle large volume. Am considering 
+- This is a mobile application, it needs to handle large volume. I am considering 
 using serverless and cloud for storage. 
 - Since we need to store user account and possible credit card. For ease of use, we'll use third 
 party login such as google or facebook. For payment, users can choose Paypal or Stripe. 
@@ -45,7 +45,7 @@ Usability
 #### Major Components and Functionalities
 
 #### Frontend Structure:
-Use React
+Use React Native
 
 #### Backend Structure:
-Spring Boot Framework
+Firebase
