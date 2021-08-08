@@ -56,6 +56,14 @@ Usability
 - Target foodie or anyone who's looking for local restaurants.
 
 ### Software Architecture
+Wireframe for the homepage of Foodio
+<img src="./assets-images/foodio_home.png" alt="Foodio homepage">
+
+Wireframe for search page by zipcode
+<img src="./assets-images/foodio_location.png" alt="Foodio search page">
+
+Wireframe for result page with google map
+<img src="./assets-images/foodio_result.png" alt="Foodio result page">
 
 #### Major Components and Functionalities
 
