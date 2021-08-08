@@ -1,0 +1,3 @@
+[submodule "MyProject1"]
+	path = frontend-React_native/MyProject1
+	url = https://github.com/wj01011/wendy-foodproject1.git

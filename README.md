@@ -24,13 +24,14 @@ Add local eateries and food reviews by the users.
 3. Drop down menu for different local cuisines.
 4. Videos and images uploaded by the users that have been to the local eateries and share
     their review/experience
-5. Social media share feed
-6. Earn points for discounts
-7. Database to keep track of user's account
+
+5. Database to keep track of user's account
 
 #### Stretch Goals
 1. Allow user to add their credit card and buy e-Giftcard to send to friends
 2. Add traveling info for users to learn about the origin of food and cultures
+3. Social media share feed
+4. Earn points for discounts
 
 ### Functional Requirement
 #### use Cases
@@ -55,11 +56,11 @@ Usability
 - Target foodie or anyone who's looking for local restaurants.
 
 ### Software Architecture
+
 #### Major Components and Functionalities
 
 #### Frontend Structure:
-Use React
+Use React Native
 
 #### Backend Structure:
-Spring Boot Framework
-
+Firebase
