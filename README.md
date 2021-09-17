@@ -66,13 +66,20 @@ Usability
 ### Software Architecture
 
 Wireframe for the homepage of Foodio
+<p align="center">
 <img src="./assets-images/foodiologin.PNG" alt="Foodio homepage">
+</p>
 
 Wireframe for search page by zipcode
+<p align="center">
 <img src="./assets-images/searchzipcode.PNG" alt="Foodio search page">
+</p>
 
 Wireframe for result page with google map
+<p align="center">
 <img src="./assets-images/searchresult.PNG" alt="Foodio result page">
+</p>
+
 
 #### Major Components and Functionalities
 
