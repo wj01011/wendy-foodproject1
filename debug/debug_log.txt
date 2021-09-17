@@ -1,0 +1,20 @@
+debugging tips:
+use console.log()
+
+on real device, shake it
+for virtual device, ctr+d and command+d , then click Debug Remote js, it will takes you chrome browser 
+
+To debug on the chrome browser, click sources tab, click pause on caught exceptions and highlight the line 
+where the exception occurs. 
+
+To debug backend: click on Networkk tab of chrome browser
+
+To debug in VSCode:
+go to launch.json located in .vscode: add configurations for React Native, can select debug android
+
+Go to App.js, place break point, select debug play button, select debug android 
+if error occurs, go to view, debug console. Make sure to change the port, settings-> reactNative package.port change it to 8081
+
+if error message said could not debug, make sure to close the chrome debugger
+
+
